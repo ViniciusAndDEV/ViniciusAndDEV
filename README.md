@@ -18,7 +18,7 @@
 
 ## Projects
 - [RPG-Python](https://github.com/ViniciusAndDEV/RPG-Python) – My first Python project to practice programming concepts
-- ...
+- . . .
 ---
 
 ## Skills
