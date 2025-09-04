@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Vinicius Andrade
 
-<!--
-**ViniciusAndDEV/ViniciusAndDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring AI Developer | Python Programmer | Student**
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![GitHub](https://img.shields.io/github/followers/ViniciusAndDEV?label=Follow&style=social)
+![AI](https://img.shields.io/badge/AI-Machine%20Learning-orange)
+![Learning](https://img.shields.io/badge/Learning-Always-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+- Student learning advanced Python and AI concepts
+- Interested in Machine Learning, Neural Networks, and data-driven projects
+- Passionate about programming, problem-solving, and innovation
+
+---
+
+## Projects
+- [RPG-Python](https://github.com/ViniciusAndDEV/RPG-Python) – My first Python project to practice programming concepts
+- ...
+---
+
+## Skills
+- Python
+- Basic AI concepts and algorithms
+- Logic and programming fundamentals
+
+---
+
+## Contact
+- Email: ViniciusAndDEV@users.noreply.github.com
